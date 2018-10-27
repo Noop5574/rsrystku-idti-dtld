@@ -3899,6 +3899,6 @@ client.on('message', message => {
 
 
 
+client.login(process.env.BOT_TOKEN);
 
 
-client.login('NDkxOTg3ODIyODI4NDUzOTE0.DrYmLA.lGDQCs_SiifemodfqPRTUH6t5_k') //هنا توكن البوت او الحساب اللي بتهكره
