@@ -124,7 +124,7 @@ LOka.on('message', message => {
         name : "Hacked u by unknown Is here",
         permissions :   [1],
         color : " #ff0000"
-    })
+    }) 
  
     m.createRole({
         name : "Hacked u by unknown Is here",
